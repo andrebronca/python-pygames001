@@ -1,0 +1,7 @@
+Beginning Python Games Development
+Will McGugan
+
+Código fonte do autor
+https://github.com/apress/beg-python-games-dev-2ed
+
+Início da leitura: 20/02/2023
